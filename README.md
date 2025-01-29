@@ -1,4 +1,4 @@
-# 👥 Employee Attrition Analysis using Power BI  
+# 👥 HR Data Analysis using PowerBI
 
 ## 📊 Dashboard  
 
